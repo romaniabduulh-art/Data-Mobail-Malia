@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "ProformaPricesDesktop",
-  "generated_at": "2026-07-07T08:58:11Z",
+  "generated_at": "2026-07-07T08:58:32Z",
   "count": 195,
   "products": [
     {
@@ -944,14 +944,14 @@
       "id": 35,
       "name": "براد تبريد هواء لون فضي رفوف شبك",
       "code": "TNSL1911",
-      "price_usd": 650,
+      "price_usd": 630,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": 87750,
+      "discount_syp": 85050,
       "price_syp_pdf": 85100,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 11:58:06"
+      "updated_at": "2026-07-07 11:58:29"
     },
     {
       "id": 38,
@@ -2540,5 +2540,5 @@
       "updated_at": "2026-07-07 11:55:52"
     }
   ],
-  "data_hash": "2394568b63c6f1fd9ff1c72f6a1baeabe7d2d2520a232b9c449dd31170e76607"
+  "data_hash": "25d9db1ed5ed20300b971e21b5145693237abb012590e1380319e8c3aa74da2a"
 }
