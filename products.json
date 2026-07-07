@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "ProformaPricesDesktop",
-  "generated_at": "2026-07-07T08:26:22Z",
+  "generated_at": "2026-07-07T08:41:06Z",
   "count": 195,
   "products": [
     {
@@ -11,11 +11,11 @@
       "price_usd": 52,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 5265,
       "price_syp_pdf": 7000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 88,
@@ -24,11 +24,11 @@
       "price_usd": 477,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 48296.25,
       "price_syp_pdf": 64400,
       "volume_liters": "350",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 7,
@@ -37,11 +37,11 @@
       "price_usd": 374,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 37867.5,
       "price_syp_pdf": 50500,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 91,
@@ -50,11 +50,11 @@
       "price_usd": 600,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 60750,
       "price_syp_pdf": 81000,
       "volume_liters": "550",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 32,
@@ -63,11 +63,11 @@
       "price_usd": 543,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 54978.75,
       "price_syp_pdf": 73300,
       "volume_liters": "480",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 33,
@@ -76,11 +76,11 @@
       "price_usd": 574,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58117.5,
       "price_syp_pdf": 77500,
       "volume_liters": "480",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 3,
@@ -89,11 +89,11 @@
       "price_usd": 328,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 33210,
       "price_syp_pdf": 44300,
       "volume_liters": "280",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 6,
@@ -102,11 +102,11 @@
       "price_usd": 354,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 35842.5,
       "price_syp_pdf": 47800,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 1,
@@ -115,11 +115,11 @@
       "price_usd": 302,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 30577.5,
       "price_syp_pdf": 40800,
       "volume_liters": "170",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 8,
@@ -128,11 +128,11 @@
       "price_usd": 446,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45157.5,
       "price_syp_pdf": 60200,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 5,
@@ -141,11 +141,11 @@
       "price_usd": 343,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 34728.75,
       "price_syp_pdf": 46300,
       "volume_liters": "280",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 4,
@@ -154,11 +154,11 @@
       "price_usd": 349,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 35336.25,
       "price_syp_pdf": 47100,
       "volume_liters": "280",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 2,
@@ -167,11 +167,11 @@
       "price_usd": 323,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 32703.75,
       "price_syp_pdf": 43600,
       "volume_liters": "170",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 58,
@@ -180,11 +180,11 @@
       "price_usd": 917,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 92846.25,
       "price_syp_pdf": 123800,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 60,
@@ -193,11 +193,11 @@
       "price_usd": 923,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 93453.75,
       "price_syp_pdf": 124600,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 66,
@@ -206,11 +206,11 @@
       "price_usd": 923,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 93453.75,
       "price_syp_pdf": 124600,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 62,
@@ -219,11 +219,11 @@
       "price_usd": 933,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 94466.25,
       "price_syp_pdf": 126000,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 64,
@@ -232,11 +232,11 @@
       "price_usd": 933,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 94466.25,
       "price_syp_pdf": 126000,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 69,
@@ -245,11 +245,11 @@
       "price_usd": 933,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 94466.25,
       "price_syp_pdf": 126000,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 59,
@@ -258,11 +258,11 @@
       "price_usd": 948,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 95985,
       "price_syp_pdf": 128000,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 61,
@@ -271,11 +271,11 @@
       "price_usd": 953,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 96491.25,
       "price_syp_pdf": 128700,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 67,
@@ -284,11 +284,11 @@
       "price_usd": 953,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 96491.25,
       "price_syp_pdf": 128700,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 63,
@@ -297,11 +297,11 @@
       "price_usd": 964,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 97605,
       "price_syp_pdf": 130100,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 68,
@@ -310,11 +310,11 @@
       "price_usd": 964,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 97605,
       "price_syp_pdf": 130100,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 71,
@@ -323,11 +323,11 @@
       "price_usd": 974,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 98617.5,
       "price_syp_pdf": 131500,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 65,
@@ -336,11 +336,11 @@
       "price_usd": 964,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 97605,
       "price_syp_pdf": 130100,
       "volume_liters": "661",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 70,
@@ -349,11 +349,11 @@
       "price_usd": 964,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 97605,
       "price_syp_pdf": 130100,
       "volume_liters": "730",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 14,
@@ -362,11 +362,11 @@
       "price_usd": 584,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 59130,
       "price_syp_pdf": 78800,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 19,
@@ -375,11 +375,11 @@
       "price_usd": 712,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 72090,
       "price_syp_pdf": 96100,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 26,
@@ -388,11 +388,11 @@
       "price_usd": 774,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 78367.5,
       "price_syp_pdf": 104500,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 9,
@@ -401,11 +401,11 @@
       "price_usd": 461,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 46676.25,
       "price_syp_pdf": 62200,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 10,
@@ -414,11 +414,11 @@
       "price_usd": 507,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 51333.75,
       "price_syp_pdf": 68400,
       "volume_liters": "460",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 12,
@@ -427,11 +427,11 @@
       "price_usd": 574,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58117.5,
       "price_syp_pdf": 77500,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 16,
@@ -440,11 +440,11 @@
       "price_usd": 702,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 71077.5,
       "price_syp_pdf": 94800,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 21,
@@ -453,11 +453,11 @@
       "price_usd": 753,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 76241.25,
       "price_syp_pdf": 101700,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 23,
@@ -466,11 +466,11 @@
       "price_usd": 764,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 77355,
       "price_syp_pdf": 103100,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 15,
@@ -479,11 +479,11 @@
       "price_usd": 615,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 62268.75,
       "price_syp_pdf": 83000,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 20,
@@ -492,11 +492,11 @@
       "price_usd": 743,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 75228.75,
       "price_syp_pdf": 100300,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 27,
@@ -505,11 +505,11 @@
       "price_usd": 805,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 81506.25,
       "price_syp_pdf": 108700,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 11,
@@ -518,11 +518,11 @@
       "price_usd": 538,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 54472.5,
       "price_syp_pdf": 72600,
       "volume_liters": "460",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 13,
@@ -531,11 +531,11 @@
       "price_usd": 605,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 61256.25,
       "price_syp_pdf": 81700,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 17,
@@ -544,11 +544,11 @@
       "price_usd": 733,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 74216.25,
       "price_syp_pdf": 99000,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 22,
@@ -557,11 +557,11 @@
       "price_usd": 784,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 79380,
       "price_syp_pdf": 105800,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 24,
@@ -570,11 +570,11 @@
       "price_usd": 794,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 80392.5,
       "price_syp_pdf": 107200,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 18,
@@ -583,11 +583,11 @@
       "price_usd": 743,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 75228.75,
       "price_syp_pdf": 100300,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 25,
@@ -596,11 +596,11 @@
       "price_usd": 805,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 81506.25,
       "price_syp_pdf": 108700,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 115,
@@ -609,11 +609,11 @@
       "price_usd": 764,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 77355,
       "price_syp_pdf": 103100,
       "volume_liters": "515",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 114,
@@ -622,11 +622,11 @@
       "price_usd": 815,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 82518.75,
       "price_syp_pdf": 110000,
       "volume_liters": "492",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 111,
@@ -635,11 +635,11 @@
       "price_usd": 569,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 57611.25,
       "price_syp_pdf": 76800,
       "volume_liters": "468",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 116,
@@ -648,11 +648,11 @@
       "price_usd": 789,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 79886.25,
       "price_syp_pdf": 106500,
       "volume_liters": "515",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 112,
@@ -661,11 +661,11 @@
       "price_usd": 697,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 70571.25,
       "price_syp_pdf": 94100,
       "volume_liters": "535",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 113,
@@ -674,11 +674,11 @@
       "price_usd": 805,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 81506.25,
       "price_syp_pdf": 108700,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 117,
@@ -687,11 +687,11 @@
       "price_usd": 866,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 87682.5,
       "price_syp_pdf": 116900,
       "volume_liters": "680",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 43,
@@ -700,11 +700,11 @@
       "price_usd": 630,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 63787.5,
       "price_syp_pdf": 85100,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 50,
@@ -713,11 +713,11 @@
       "price_usd": 779,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 78873.75,
       "price_syp_pdf": 105200,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 55,
@@ -726,11 +726,11 @@
       "price_usd": 851,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 86163.75,
       "price_syp_pdf": 114900,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 28,
@@ -739,11 +739,11 @@
       "price_usd": 502,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 50827.5,
       "price_syp_pdf": 67800,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 30,
@@ -752,11 +752,11 @@
       "price_usd": 538,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 54472.5,
       "price_syp_pdf": 72600,
       "volume_liters": "480",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 34,
@@ -765,11 +765,11 @@
       "price_usd": 600,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 60750,
       "price_syp_pdf": 81000,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 37,
@@ -778,11 +778,11 @@
       "price_usd": 620,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 62775,
       "price_syp_pdf": 83700,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 47,
@@ -791,11 +791,11 @@
       "price_usd": 769,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 77861.25,
       "price_syp_pdf": 103800,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 52,
@@ -804,11 +804,11 @@
       "price_usd": 841,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 85151.25,
       "price_syp_pdf": 113500,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 39,
@@ -817,11 +817,11 @@
       "price_usd": 630,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 63787.5,
       "price_syp_pdf": 85100,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 40,
@@ -830,11 +830,11 @@
       "price_usd": 630,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 63787.5,
       "price_syp_pdf": 85100,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 44,
@@ -843,11 +843,11 @@
       "price_usd": 661,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 66926.25,
       "price_syp_pdf": 89200,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 51,
@@ -856,11 +856,11 @@
       "price_usd": 810,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 82012.5,
       "price_syp_pdf": 109400,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 56,
@@ -869,11 +869,11 @@
       "price_usd": 882,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 89302.5,
       "price_syp_pdf": 119100,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 45,
@@ -882,11 +882,11 @@
       "price_usd": 671,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 67938.75,
       "price_syp_pdf": 90600,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 46,
@@ -895,11 +895,11 @@
       "price_usd": 671,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 67938.75,
       "price_syp_pdf": 90600,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 57,
@@ -908,11 +908,11 @@
       "price_usd": 892,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 90315,
       "price_syp_pdf": 120400,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 29,
@@ -921,11 +921,11 @@
       "price_usd": 533,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 53966.25,
       "price_syp_pdf": 72000,
       "volume_liters": "410",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 31,
@@ -934,11 +934,11 @@
       "price_usd": 569,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 57611.25,
       "price_syp_pdf": 76800,
       "volume_liters": "480",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 35,
@@ -947,11 +947,11 @@
       "price_usd": 630,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": 85050,
+      "discount_syp": 63787.5,
       "price_syp_pdf": 85100,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 11:26:19"
+      "updated_at": "2026-07-07 11:40:56"
     },
     {
       "id": 38,
@@ -960,11 +960,11 @@
       "price_usd": 651,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 65913.75,
       "price_syp_pdf": 87900,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 48,
@@ -973,11 +973,11 @@
       "price_usd": 800,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 81000,
       "price_syp_pdf": 108000,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 53,
@@ -986,11 +986,11 @@
       "price_usd": 871,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 88188.75,
       "price_syp_pdf": 117600,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 36,
@@ -999,11 +999,11 @@
       "price_usd": 641,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 64901.25,
       "price_syp_pdf": 86500,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 41,
@@ -1012,11 +1012,11 @@
       "price_usd": 661,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 66926.25,
       "price_syp_pdf": 89200,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 49,
@@ -1025,11 +1025,11 @@
       "price_usd": 810,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 82012.5,
       "price_syp_pdf": 109400,
       "volume_liters": "650",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 54,
@@ -1038,11 +1038,11 @@
       "price_usd": 882,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 89302.5,
       "price_syp_pdf": 119100,
       "volume_liters": "690",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 42,
@@ -1051,11 +1051,11 @@
       "price_usd": 661,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 66926.25,
       "price_syp_pdf": 89200,
       "volume_liters": "567",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 90,
@@ -1064,11 +1064,11 @@
       "price_usd": 600,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 60750,
       "price_syp_pdf": 81000,
       "volume_liters": "",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 108,
@@ -1077,11 +1077,11 @@
       "price_usd": 923,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 93453.75,
       "price_syp_pdf": 124600,
       "volume_liters": "295",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 109,
@@ -1090,11 +1090,11 @@
       "price_usd": 1481,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 149951.25,
       "price_syp_pdf": 199900,
       "volume_liters": "924",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 110,
@@ -1103,11 +1103,11 @@
       "price_usd": 1727,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 174858.75,
       "price_syp_pdf": 233100,
       "volume_liters": "1300",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 151,
@@ -1116,11 +1116,11 @@
       "price_usd": 374,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 37867.5,
       "price_syp_pdf": 50500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 152,
@@ -1129,11 +1129,11 @@
       "price_usd": 441,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 44651.25,
       "price_syp_pdf": 59500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 72,
@@ -1142,11 +1142,11 @@
       "price_usd": 384,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 38880,
       "price_syp_pdf": 51800,
       "volume_liters": "132",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 75,
@@ -1155,11 +1155,11 @@
       "price_usd": 451,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45663.75,
       "price_syp_pdf": 60900,
       "volume_liters": "297",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 77,
@@ -1168,11 +1168,11 @@
       "price_usd": 543,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 54978.75,
       "price_syp_pdf": 73300,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 74,
@@ -1181,11 +1181,11 @@
       "price_usd": 487,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 49308.75,
       "price_syp_pdf": 65700,
       "volume_liters": "132",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 73,
@@ -1194,11 +1194,11 @@
       "price_usd": 415,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 42018.75,
       "price_syp_pdf": 56000,
       "volume_liters": "132",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 76,
@@ -1207,11 +1207,11 @@
       "price_usd": 482,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 48802.5,
       "price_syp_pdf": 65100,
       "volume_liters": "297",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 78,
@@ -1220,11 +1220,11 @@
       "price_usd": 574,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58117.5,
       "price_syp_pdf": 77500,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 79,
@@ -1233,11 +1233,11 @@
       "price_usd": 466,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 47182.5,
       "price_syp_pdf": 62900,
       "volume_liters": "335",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 81,
@@ -1246,11 +1246,11 @@
       "price_usd": 548,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 55485,
       "price_syp_pdf": 74000,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 85,
@@ -1259,11 +1259,11 @@
       "price_usd": 820,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 83025,
       "price_syp_pdf": 110700,
       "volume_liters": "550",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 83,
@@ -1272,11 +1272,11 @@
       "price_usd": 548,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 55485,
       "price_syp_pdf": 74000,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 80,
@@ -1285,11 +1285,11 @@
       "price_usd": 497,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 50321.25,
       "price_syp_pdf": 67100,
       "volume_liters": "335",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 82,
@@ -1298,11 +1298,11 @@
       "price_usd": 579,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58623.75,
       "price_syp_pdf": 78200,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 84,
@@ -1311,11 +1311,11 @@
       "price_usd": 579,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58623.75,
       "price_syp_pdf": 78200,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 99,
@@ -1324,11 +1324,11 @@
       "price_usd": 482,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 48802.5,
       "price_syp_pdf": 65100,
       "volume_liters": "290",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 101,
@@ -1337,11 +1337,11 @@
       "price_usd": 507,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 51333.75,
       "price_syp_pdf": 68400,
       "volume_liters": "380",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 104,
@@ -1350,11 +1350,11 @@
       "price_usd": 523,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 52953.75,
       "price_syp_pdf": 70600,
       "volume_liters": "450",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 105,
@@ -1363,11 +1363,11 @@
       "price_usd": 533,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 53966.25,
       "price_syp_pdf": 72000,
       "volume_liters": "470",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 107,
@@ -1376,11 +1376,11 @@
       "price_usd": 584,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 59130,
       "price_syp_pdf": 78800,
       "volume_liters": "",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 100,
@@ -1389,11 +1389,11 @@
       "price_usd": 502,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 50827.5,
       "price_syp_pdf": 67800,
       "volume_liters": "290",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 102,
@@ -1402,11 +1402,11 @@
       "price_usd": 533,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 53966.25,
       "price_syp_pdf": 72000,
       "volume_liters": "380",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 106,
@@ -1415,11 +1415,11 @@
       "price_usd": 564,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 57105,
       "price_syp_pdf": 76100,
       "volume_liters": "470",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 103,
@@ -1428,11 +1428,11 @@
       "price_usd": 518,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 52447.5,
       "price_syp_pdf": 69900,
       "volume_liters": "380",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 95,
@@ -1441,11 +1441,11 @@
       "price_usd": 451,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45663.75,
       "price_syp_pdf": 60900,
       "volume_liters": "290",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 96,
@@ -1454,11 +1454,11 @@
       "price_usd": 492,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 49815,
       "price_syp_pdf": 66400,
       "volume_liters": "380",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 97,
@@ -1467,11 +1467,11 @@
       "price_usd": 533,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 53966.25,
       "price_syp_pdf": 72000,
       "volume_liters": "470",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 98,
@@ -1480,11 +1480,11 @@
       "price_usd": 574,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 58117.5,
       "price_syp_pdf": 77500,
       "volume_liters": "600",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 122,
@@ -1493,11 +1493,11 @@
       "price_usd": 349,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 35336.25,
       "price_syp_pdf": 47100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 123,
@@ -1506,11 +1506,11 @@
       "price_usd": 369,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 37361.25,
       "price_syp_pdf": 49800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 125,
@@ -1519,11 +1519,11 @@
       "price_usd": 379,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 38373.75,
       "price_syp_pdf": 51200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 136,
@@ -1532,11 +1532,11 @@
       "price_usd": 497,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 50321.25,
       "price_syp_pdf": 67100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 134,
@@ -1545,11 +1545,11 @@
       "price_usd": 554,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 56092.5,
       "price_syp_pdf": 74800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 137,
@@ -1558,11 +1558,11 @@
       "price_usd": 507,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 51333.75,
       "price_syp_pdf": 68400,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 135,
@@ -1571,11 +1571,11 @@
       "price_usd": 564,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 57105,
       "price_syp_pdf": 76100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 121,
@@ -1584,11 +1584,11 @@
       "price_usd": 318,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 32197.5,
       "price_syp_pdf": 42900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 126,
@@ -1597,11 +1597,11 @@
       "price_usd": 395,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 39993.75,
       "price_syp_pdf": 53300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 127,
@@ -1610,11 +1610,11 @@
       "price_usd": 400,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 40500,
       "price_syp_pdf": 54000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 128,
@@ -1623,11 +1623,11 @@
       "price_usd": 405,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 41006.25,
       "price_syp_pdf": 54700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 124,
@@ -1636,11 +1636,11 @@
       "price_usd": 374,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 37867.5,
       "price_syp_pdf": 50500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 131,
@@ -1649,11 +1649,11 @@
       "price_usd": 441,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 44651.25,
       "price_syp_pdf": 59500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 129,
@@ -1662,11 +1662,11 @@
       "price_usd": 420,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 42525,
       "price_syp_pdf": 56700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 133,
@@ -1675,11 +1675,11 @@
       "price_usd": 451,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45663.75,
       "price_syp_pdf": 60900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 132,
@@ -1688,11 +1688,11 @@
       "price_usd": 451,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45663.75,
       "price_syp_pdf": 60900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 130,
@@ -1701,11 +1701,11 @@
       "price_usd": 431,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 43638.75,
       "price_syp_pdf": 58200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 149,
@@ -1714,11 +1714,11 @@
       "price_usd": 554,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 56092.5,
       "price_syp_pdf": 74800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 150,
@@ -1727,11 +1727,11 @@
       "price_usd": 564,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 57105,
       "price_syp_pdf": 76100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 139,
@@ -1740,11 +1740,11 @@
       "price_usd": 349,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 35336.25,
       "price_syp_pdf": 47100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 138,
@@ -1753,11 +1753,11 @@
       "price_usd": 338,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 34222.5,
       "price_syp_pdf": 45600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 141,
@@ -1766,11 +1766,11 @@
       "price_usd": 359,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 36348.75,
       "price_syp_pdf": 48500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 143,
@@ -1779,11 +1779,11 @@
       "price_usd": 364,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 36855,
       "price_syp_pdf": 49100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 140,
@@ -1792,11 +1792,11 @@
       "price_usd": 359,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 36348.75,
       "price_syp_pdf": 48500,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 142,
@@ -1805,11 +1805,11 @@
       "price_usd": 369,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 37361.25,
       "price_syp_pdf": 49800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 144,
@@ -1818,11 +1818,11 @@
       "price_usd": 395,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 39993.75,
       "price_syp_pdf": 53300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 146,
@@ -1831,11 +1831,11 @@
       "price_usd": 415,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 42018.75,
       "price_syp_pdf": 56000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 148,
@@ -1844,11 +1844,11 @@
       "price_usd": 431,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 43638.75,
       "price_syp_pdf": 58200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 145,
@@ -1857,11 +1857,11 @@
       "price_usd": 410,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 41512.5,
       "price_syp_pdf": 55400,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 147,
@@ -1870,11 +1870,11 @@
       "price_usd": 431,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 43638.75,
       "price_syp_pdf": 58200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 120,
@@ -1883,11 +1883,11 @@
       "price_usd": 155,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 15693.75,
       "price_syp_pdf": 20900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 118,
@@ -1896,11 +1896,11 @@
       "price_usd": 119,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 12048.75,
       "price_syp_pdf": 16100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 119,
@@ -1909,11 +1909,11 @@
       "price_usd": 139,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 14073.75,
       "price_syp_pdf": 18800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 153,
@@ -1922,11 +1922,11 @@
       "price_usd": 215,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 21768.75,
       "price_syp_pdf": 29000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 156,
@@ -1935,11 +1935,11 @@
       "price_usd": 220,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 22275,
       "price_syp_pdf": 29700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 154,
@@ -1948,11 +1948,11 @@
       "price_usd": 215,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 21768.75,
       "price_syp_pdf": 29000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 157,
@@ -1961,11 +1961,11 @@
       "price_usd": 220,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 22275,
       "price_syp_pdf": 29700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 155,
@@ -1974,11 +1974,11 @@
       "price_usd": 246,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 24907.5,
       "price_syp_pdf": 33200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 158,
@@ -1987,11 +1987,11 @@
       "price_usd": 251,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 25413.75,
       "price_syp_pdf": 33900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 159,
@@ -2000,11 +2000,11 @@
       "price_usd": 272,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 27540,
       "price_syp_pdf": 36700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 162,
@@ -2013,11 +2013,11 @@
       "price_usd": 282,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 28552.5,
       "price_syp_pdf": 38100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 160,
@@ -2026,11 +2026,11 @@
       "price_usd": 272,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 27540,
       "price_syp_pdf": 36700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 163,
@@ -2039,11 +2039,11 @@
       "price_usd": 282,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 28552.5,
       "price_syp_pdf": 38100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 165,
@@ -2052,11 +2052,11 @@
       "price_usd": 292,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 29565,
       "price_syp_pdf": 39400,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 161,
@@ -2065,11 +2065,11 @@
       "price_usd": 308,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 31185,
       "price_syp_pdf": 41600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 164,
@@ -2078,11 +2078,11 @@
       "price_usd": 318,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 32197.5,
       "price_syp_pdf": 42900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 172,
@@ -2091,11 +2091,11 @@
       "price_usd": 93,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 9416.25,
       "price_syp_pdf": 12600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 171,
@@ -2104,11 +2104,11 @@
       "price_usd": 88,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 8910,
       "price_syp_pdf": 11900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 188,
@@ -2117,11 +2117,11 @@
       "price_usd": 150,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 15187.5,
       "price_syp_pdf": 20300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 190,
@@ -2130,11 +2130,11 @@
       "price_usd": 134,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 13567.5,
       "price_syp_pdf": 18100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 189,
@@ -2143,11 +2143,11 @@
       "price_usd": 155,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 15693.75,
       "price_syp_pdf": 20900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 191,
@@ -2156,11 +2156,11 @@
       "price_usd": 139,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 14073.75,
       "price_syp_pdf": 18800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 167,
@@ -2169,11 +2169,11 @@
       "price_usd": 98,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 9922.5,
       "price_syp_pdf": 13200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 166,
@@ -2182,11 +2182,11 @@
       "price_usd": 93,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 9416.25,
       "price_syp_pdf": 12600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 170,
@@ -2195,11 +2195,11 @@
       "price_usd": 17,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 1721.25,
       "price_syp_pdf": 2300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 168,
@@ -2208,11 +2208,11 @@
       "price_usd": 52,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 5265,
       "price_syp_pdf": 7000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 169,
@@ -2221,11 +2221,11 @@
       "price_usd": 27,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 2733.75,
       "price_syp_pdf": 3600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 187,
@@ -2234,11 +2234,11 @@
       "price_usd": 57,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 5771.25,
       "price_syp_pdf": 7700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 186,
@@ -2247,11 +2247,11 @@
       "price_usd": 68,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 6885,
       "price_syp_pdf": 9200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 185,
@@ -2260,11 +2260,11 @@
       "price_usd": 68,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 6885,
       "price_syp_pdf": 9200,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 184,
@@ -2273,11 +2273,11 @@
       "price_usd": 52,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 5265,
       "price_syp_pdf": 7000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 192,
@@ -2286,11 +2286,11 @@
       "price_usd": 651,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 65913.75,
       "price_syp_pdf": 87900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 193,
@@ -2299,11 +2299,11 @@
       "price_usd": 728,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 73710,
       "price_syp_pdf": 98300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 194,
@@ -2312,11 +2312,11 @@
       "price_usd": 805,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 81506.25,
       "price_syp_pdf": 108700,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 195,
@@ -2325,11 +2325,11 @@
       "price_usd": 882,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 89302.5,
       "price_syp_pdf": 119100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 174,
@@ -2338,11 +2338,11 @@
       "price_usd": 139,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 14073.75,
       "price_syp_pdf": 18800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 175,
@@ -2351,11 +2351,11 @@
       "price_usd": 139,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 14073.75,
       "price_syp_pdf": 18800,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 176,
@@ -2364,11 +2364,11 @@
       "price_usd": 145,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 14681.25,
       "price_syp_pdf": 19600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 177,
@@ -2377,11 +2377,11 @@
       "price_usd": 155,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 15693.75,
       "price_syp_pdf": 20900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 178,
@@ -2390,11 +2390,11 @@
       "price_usd": 155,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 15693.75,
       "price_syp_pdf": 20900,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 179,
@@ -2403,11 +2403,11 @@
       "price_usd": 160,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 16200,
       "price_syp_pdf": 21600,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 180,
@@ -2416,11 +2416,11 @@
       "price_usd": 165,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 16706.25,
       "price_syp_pdf": 22300,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 181,
@@ -2429,11 +2429,11 @@
       "price_usd": 170,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 17212.5,
       "price_syp_pdf": 23000,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 182,
@@ -2442,11 +2442,11 @@
       "price_usd": 186,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 18832.5,
       "price_syp_pdf": 25100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 183,
@@ -2455,11 +2455,11 @@
       "price_usd": 186,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 18832.5,
       "price_syp_pdf": 25100,
       "volume_liters": "",
       "category": "أدوات منزلية",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 87,
@@ -2468,11 +2468,11 @@
       "price_usd": 446,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 45157.5,
       "price_syp_pdf": 60200,
       "volume_liters": "260",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 89,
@@ -2481,11 +2481,11 @@
       "price_usd": 584,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 59130,
       "price_syp_pdf": 78800,
       "volume_liters": "550",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 92,
@@ -2494,11 +2494,11 @@
       "price_usd": 625,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 63281.25,
       "price_syp_pdf": 84400,
       "volume_liters": "",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 86,
@@ -2507,11 +2507,11 @@
       "price_usd": 364,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 36855,
       "price_syp_pdf": 49100,
       "volume_liters": "",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 94,
@@ -2520,11 +2520,11 @@
       "price_usd": 1061,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 107426.25,
       "price_syp_pdf": 143200,
       "volume_liters": "1200",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     },
     {
       "id": 93,
@@ -2533,12 +2533,12 @@
       "price_usd": 641,
       "price_currency": "usd",
       "price_syp_manual": null,
-      "discount_syp": null,
+      "discount_syp": 64901.25,
       "price_syp_pdf": 86500,
       "volume_liters": "",
       "category": "تبريد",
-      "updated_at": "2026-07-07 07:46:57"
+      "updated_at": "2026-07-07 09:44:12"
     }
   ],
-  "data_hash": "fd8a616fe0c5c52d7faf4db48967d92d9e8ef218fc9e68953ac0d7270302ad73"
+  "data_hash": "d44e0cf8ce8b5e2f067eaeaf8372b3a756196364288e882077f3c0e4a268b0ca"
 }
