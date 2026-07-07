@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "ProformaPricesDesktop",
-  "generated_at": "2026-07-07T06:19:51Z",
+  "generated_at": "2026-07-07T06:20:10Z",
   "count": 195,
   "products": [
     {
@@ -1020,11 +1020,11 @@
       "price_currency": "usd",
       "price_syp_manual": null,
       "exchange_rate": 135,
-      "discount_syp": 63787.5,
+      "discount_syp": null,
       "price_syp_pdf": 85100,
       "volume_liters": "540",
       "category": "تبريد",
-      "updated_at": "2026-07-07 09:19:47"
+      "updated_at": "2026-07-07 09:20:04"
     },
     {
       "id": 38,
@@ -2735,5 +2735,5 @@
       "updated_at": "2026-07-07 07:33:37"
     }
   ],
-  "data_hash": "17791bf4f85af9eaa54e1668ce6d5bd8322acd1b0f31fe35449a88572accc23a"
+  "data_hash": "d881b199d15050911829d8f53bd6236888dec6338e362295cad8b6a1ca1d47c5"
 }
